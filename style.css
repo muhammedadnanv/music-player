@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+#app {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+li:hover {
+    color: blue;
+}
